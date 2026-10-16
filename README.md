@@ -2,18 +2,11 @@
 
 # SuperBio
 
-### One bio. One identity. Everything about you.
+### Your identity. Your links. Your internet presence.
 
-SuperBio is a modern link-in-bio and digital identity platform designed to help creators, professionals, businesses, and communities build a beautiful public profile that brings their entire online presence together.
+SuperBio is building a modern digital identity platform that helps people bring their work, social presence, projects, links, and professional identity into one place.
 
-[![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)]()
-[![Made With](https://img.shields.io/badge/made%20with-Next.js-black?style=for-the-badge&logo=next.js)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
-
-<br />
-
-[Website](#) · [Documentation](#) · [Report Bug](#) · [Request Feature](#)
+[Website](#) • [Product](#) • [Contact](#)
 
 </div>
 
@@ -21,23 +14,32 @@ SuperBio is a modern link-in-bio and digital identity platform designed to help 
 
 ## About SuperBio
 
-Social identity is fragmented.
+SuperBio is focused on making online identity simpler and more useful.
 
-Your work may live on GitHub.
+Instead of having your presence scattered across different platforms, SuperBio gives you one profile that can represent:
 
-Your thoughts may live on X.
+- who you are
+- what you do
+- your projects
+- your social accounts
+- your links
+- your work
+- your communities
+- your content
 
-Your professional profile may live on LinkedIn.
+Our goal is to build something that feels more like a complete digital identity than a traditional link-in-bio page.
 
-Your videos may live on YouTube.
+---
 
-Your community may live on Discord.
-
-Your products may live somewhere else entirely.
-
-**SuperBio brings everything together.**
-
-Instead of sending people five different links, SuperBio gives you one customizable profile that represents your identity, work, content, links, projects, and social presence.
+## What We're Building
 
 ```text
-yourname.superbio.app
+Profile
+├── Identity
+├── Social Accounts
+├── Links
+├── Projects
+├── Portfolio
+├── Contact
+├── Analytics
+└── Customization
